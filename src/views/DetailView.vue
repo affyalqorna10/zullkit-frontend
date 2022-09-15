@@ -1,6 +1,7 @@
 <script setup>
 import Gallery from "@/components/detail/Gallery.vue";
-import { RouterLink, onMounted } from "vue-router";
+import { RouterLink } from "vue-router";
+import { onMounted } from "vue";
 
 onMounted(() => {
   window.scrollTo(0, 0);
