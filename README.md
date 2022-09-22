@@ -29,6 +29,4 @@ npm run build
 ```
 
 
-```sh
-link demo https://zullkit-vue-affy.netlify.app/
-```
+link demo https://zullkit-vue-affy.netlify.app
